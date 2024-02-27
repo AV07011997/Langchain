@@ -1,0 +1,27 @@
+/* styles.css */
+
+/* Apply some basic styling to the table */
+.table-container {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  /* Style the table header */
+  .table-header {
+    background-color: #f2f2f2;
+  }
+  
+  /* Style the table cells */
+  .table-cell {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    border-collapse: collapse;
+  }
+  
+  /* Apply some styling to the "No data available" message */
+  .no-data-message {
+    color: red;
+    font-weight: bold;
+  }
+  
